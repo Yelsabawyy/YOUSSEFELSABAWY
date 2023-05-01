@@ -1,0 +1,21 @@
+.input{
+    width: 400px;
+    border-radius: 5px;
+    border: 1px solid rgb(179, 179, 179);
+    padding: 9px 10px 9px 10px;
+    border-color: grey;
+    outline: none;
+    resize: vertical;
+}
+textarea{
+    height: 300px;
+}
+
+.sendMessageButton{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 10px 25px;
+    border: none;
+    margin-bottom: 20px;
+}

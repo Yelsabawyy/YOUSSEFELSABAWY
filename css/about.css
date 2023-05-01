@@ -1,0 +1,19 @@
+.cvTitle{
+    text-decoration: underline;
+    text-decoration-color: var(--red);
+    text-decoration-thickness: 2px;
+    text-underline-offset: 4px;
+}
+
+.cvData{
+    margin: 10px 30px 10px 30px;
+    font-weight:600;
+    line-height: 19pt;
+}
+
+.floatRight{
+    float: right;
+}
+mark{
+    background-color: #FFFF00;
+}
